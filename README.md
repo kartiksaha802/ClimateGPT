@@ -18,8 +18,8 @@ Using ClimateGPT is straightforward. Just input the name of the desired location
 For example, if you input "Guwahati," ClimateGPT will provide details such as the current temperature (25°C), humidity (85%), and wind speed (5 km/h). It will also suggest activities like visiting the Kamakhya Temple, taking a serene walk along the Brahmaputra Riverfront, or exploring the Assam State Museum to immerse yourself in the rich local culture.
 
 ## Try It
-It is not yet deployed on the cloud so you can use it on the local system by using the following instruction
-Ensure you have Python 3.9 or higher, libraries mentioned in requirements.txt, and required API keys before proceeding with the use of ClimateGPT. 
+It is not yet deployed on the cloud so you can use it on the local system by using the following instruction.
+- Ensure you have Python 3.9 or higher, libraries mentioned in requirements.txt, and required API keys before proceeding with the use of ClimateGPT. 
 
 Execute the command on the terminal and you go!!
 ```bash
