@@ -19,7 +19,7 @@ For example, if you input "Guwahati," ClimateGPT will provide details such as th
 
 ## Try It
 It is not yet deployed on the cloud so you can use it on the local system by using the following instruction.
-- Ensure you have Python 3.9 or higher, libraries mentioned in requirements.txt, and required API keys before proceeding with the use of ClimateGPT. 
+- Ensure you have Python 3.9 or higher, libraries mentioned in requirements.txt in your conda environment, and  API keys before proceeding with the use of ClimateGPT. 
 
 Execute the command on the terminal and you go!!
 ```bash
