@@ -22,7 +22,7 @@ def execute_function_call(assistant_message):
     return results
 
 def get_natural_response(content):
-    convert_prompt = f"convert this results from weather api to a natural english sentence containing the temperature also dont mention country and state and also tell what we can do in that based on your knowlodge like place to see and enjoy and dont mention you are using Weather API  {content}"
+    convert_prompt = f"convert this results from weather api to a natural english sentence containing the temperature and other important metrics also dont mention country and state and also tell what we can do in that based on your knowlodge like 6-7 place to see and but also suggests 3-4 activities in bulltet points tailored to the given climatic conditions and dont mention you are using Weather API and use word climate instead of weather in response {content}"
     messages.append({"role": "user", "content": convert_prompt})
     convert_prompt_response = chat_completion_request(messages=messages)
     print(f"\n>>>> recieved message: {convert_prompt_response.json()}")
