@@ -2,7 +2,7 @@
 
 ClimateGPT is a conversational AI bot designed to provide users with accurate and up-to-date information about the climatic conditions of various locations around the world. Powered by the GPT-3.5 Turbo 0613 API and Chainlit, ClimateGPT not only offers weather data but also suggests activities tailored to the given climatic conditions.
 
-![ClimateGPT Image](https://drive.google.com/file/d/1QwNZlXhY1e1qcgnxFkdv_fvh9rjpRhnD/view?usp=sharing)
+[![climate-GPT.png](https://i.postimg.cc/D0LsXY0b/climate-GPT.png)](https://postimg.cc/5Q96cgwx)
 
 ## Features
 
