@@ -15,11 +15,13 @@ Introducing ClimateGPT: Your go-to conversational AI companion for real-time cli
 
 Using ClimateGPT is straightforward. Just input the name of the desired location, and the bot will furnish you with a comprehensive weather report. This report includes the current temperature, humidity levels, wind speed, and precipitation forecast. Moreover, ClimateGPT will propose activities that align with the prevailing climatic conditions.
 
-For instance, if you input "London," ClimateGPT will provide details such as the current temperature (20°C), humidity (70%), and wind speed (10 km/h). It will also recommend activities like exploring the Tower of London, strolling through Hyde Park, or indulging in some retail therapy along Oxford Street.
+For example, if you input "Guwahati," ClimateGPT will provide details such as the current temperature (25°C), humidity (85%), and wind speed (5 km/h). It will also suggest activities like visiting the Kamakhya Temple, taking a serene walk along the Brahmaputra Riverfront, or exploring the Assam State Museum to immerse yourself in the rich local culture.
 
-## Installation
+## Try It
+It is not yet deployed on the cloud so you can use it on the local system by using the following instruction
+Ensure you have Python 3.9 or higher, libraries mentioned in requirements.txt, and required API keys before proceeding with the use of ClimateGPT. 
 
-Ensure you have Python 3.6 or higher installed on your system before proceeding with the installation of ClimateGPT. Execute the following command to install the bot:
-
+Execute the command on the terminal and you go!!
 ```bash
-pip install climategpt
+chainlit run app.py
+
